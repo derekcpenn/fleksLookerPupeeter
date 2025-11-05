@@ -1,14 +1,16 @@
 {
   "name": "flekslookerpupeeter",
   "version": "1.0.0",
+  "type": "module",
   "main": "export-report.js",
   "scripts": {
+    "start": "node export-report.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Looker Studio report exporter using Puppeteer",
   "dependencies": {
     "dotenv": "^17.2.3",
     "puppeteer": "^24.28.0"
