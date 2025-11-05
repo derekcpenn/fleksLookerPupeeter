@@ -9,7 +9,7 @@ node_modules/
 npm-debug.log*
 
 # Output
-/var/reports/
+reports/
 
 # OS files
 .DS_Store
