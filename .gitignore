@@ -7,9 +7,13 @@ node_modules/
 # Logs
 *.log
 npm-debug.log*
+export.log
 
 # Output
 reports/
+
+# Browser profile data
+chrome-profile/
 
 # OS files
 .DS_Store
